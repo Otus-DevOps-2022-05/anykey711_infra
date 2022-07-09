@@ -1,7 +1,7 @@
 {
     "folder_id": "folderid",
     "image_family": "ubuntu-1604-lts",
-    "key_file": "key.json",
+    "key_file": "key.json.example",
     "image_name": "reddit-base-{{timestamp}}",
     "image_family": "reddit",
     "ssh_username": "ubuntu"
