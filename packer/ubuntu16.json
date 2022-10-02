@@ -2,7 +2,7 @@
   "builders": [
     {
       "type": "yandex",
-      "service_account_key_file": "key.json.example",
+      "service_account_key_file": "/home/dem/Github/key.json",
       "ssh_username" : "ubuntu",
       "folder_id": "{{user `folder_id`}}",
       "source_image_family": "user {{user `source_image_family`}}",

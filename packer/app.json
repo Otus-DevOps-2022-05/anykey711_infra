@@ -2,9 +2,9 @@
   "builders": [
     {
       "type": "yandex",
-      "service_account_key_file": "key.json.example",
+      "service_account_key_file": "./packer/key.json",
       "ssh_username": "ubuntu",
-      "folder_id": "{{user `folder_id`}}",
+      "folder_id": "b1gafo6fgsvf9m725efp",
       "source_image_family": "user {{user `source_image_family`}}",
       "image_name": "reddit-base-{{timestamp}}",
       "image_family": "reddit-base",

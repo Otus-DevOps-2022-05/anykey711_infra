@@ -1,6 +1,6 @@
 {
-    "folder_id": "folderid",
+    "folder_id": "b1gafo6fgsvf9m725efp",
     "image_family": "ubuntu-1604-lts",
-    "key_file": "key.json.example",
+    "key_file": "key.json",
     "ssh_username": "ubuntu"
 }
