@@ -1,6 +1,8 @@
 {
-    "folder_id": "b1gafo6fgsvf9m725efp",
-    "image_family": "ubuntu-1604-lts",
-    "key_file": "key.json",
-    "ssh_username": "ubuntu"
+   "id": "ajetuhu2v0ams16m8r96",
+   "service_account_id": "aje9n69bh5plnbns0bts",
+   "created_at": "2022-10-01T14:13:31.733329548Z",
+   "key_algorithm": "RSA_2048",
+   "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy1WAswL5kGGNkngCayPi\nVXJqSYvCynJ+CHLgtQh/f69xYLMC4kUy3RB5fNcrSg/wvdIZltILdvXqhhh54Ny0\nGy8YUtZBvSBrGEgioPK52e2kfqda+VbljKRWVGl+p8NqUZ+fJLfArUnaHCLhdSaS\nJYclIOGp3WC56FppHfvJuxT3/JGwWPXCzjH5O3e/KrvAlwNUvojiJ8PRJxErhWIF\nYiZiBNi3XE9j3G0Y95Ye+V8w7Mal5VlD2MR3Xr2Mq7HC756Oyy6ynfJI5ugIPUqj\n5/xPu7bvUnJSecq4WIEVc9jgGDlBHaKKT4AfG/rVSPAa5nAEPBfIYSLbST3Twomr\nOwIDAQAB\n-----END PUBLIC KEY-----\n",
+   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLVYCzAvmQYY2S\neAJrI+JVcmpJi8LKcn4IcuC1CH9/r3FgswLiRTLdEHl81ytKD/C90hmW0gt29eqG\nGHng3LQbLxhS1kG9IGsYSCKg8rnZ7aR+p1r5VuWMpFZUaX6nw2pRn58kt8CtSdoc\nIuF1JpIlhyUg4andYLnoWmkd+8m7FPf8kbBY9cLOMfk7d78qu8CXA1S+iOInw9En\nESuFYgViJmIE2LdcT2PcbRj3lh75XzDsxqXlWUPYxHdevYyrscLvno7LLrKd8kjm\n6Ag9SqPn/E+7tu9SclJ5yrhYgRVz2OAYOUEdoopPgB8b+tVI8BrmcAQ8F8hhIttJ\nPdPCias7AgMBAAECggEAEwWds6F8nWAy8Vfeyg0iWGIKxXSYtX2+gqXUlbsEynos\nPiKhC2/z0TCAXQh4GUaie++Sy0Q9JFTfKspRZJLhGoXuXZmDruDAhBYDf1EVx+hu\nchbP8PGLKfwZw23XFnS2loo7RiEWml+FUwqEUwRXucEJ3SifToGFAtKqcM6kUab6\nxGQMy3BkjpxPWc7dF5axHcejBsjjvR6AuzpgkWIqp/MkdQDqwdAV4wO6chxpPQDI\nQPwMwSiwRAa4KcMejoLhb8UGHT/1wbxexXT+povU50b4thTESUnxx9ebBVWWUr2H\n8ulYpEj4HMv0A1mNjFrrJ/Q/ZpXROGL6mZWgjI3GSQKBgQDyOORRJaucWBtvtHjg\nxcIhTFSMLgs+QwKiloPHc6pFdPuGKl1hX5+XwQbfNdZ7RrE6XVQ5yekqNj99dZ24\njA897t2U5n0FHQ0q3ElFZT9TOjOfIgw9BGeOjCi6IT89lQdUkq7EI1g68Ae4d5/D\nF8LKVcKCabZVdOg85SbuSs761QKBgQDW5lduq8lrcL+66ygrKbvWTh3xgiwc0NPP\nlU7PA4g7GU+WEyCyHCKCx/J2JCvP5jRR7hfIdecK3Y/IaSzXxY0PRLY1TJ6DDSUQ\nmoSI0tiwddZizvfNfCv1KpQ4N1C46o7KrbJstWkmgSnzgsLWJvgjpF6Il9S+HXMn\n0zCnVCP1zwKBgG6+7ETdwFS/Q+wSy6GZSWUIDS/6bVGOOco0nxO2IoeXMNjqzb8T\nhVhQ/N9ZMjMy4x0YRsYVNvIB0419FRunjeB3MgA+UbLg0YBjL2z3Gbjnx2pemtHb\nDa3zDzvqr4tsc+mLFzS+JDzuOdlxeC4u0vTHuSL/SkpQJU6SRvZ0ZaXxAoGAE+4c\n4biw33P/dBhnC0m9j+yCvmkyKiH74t6YBn7vXXvFc8emWp5dXP+qLua/4XIaHBcW\nwZKdsNZHhXCrpf8+S9I1i8/lS4Ymj9mkvQPA8Oycy2Eifj4r3XrrcCNBK0UlpQpi\n584TSGzmNR1FcJMApF2UHtrl8hPNID5n3rzg8OUCgYEA25YlzkzzM6SNbjrJjk7a\n+jqMJsyCEU5r0ka233nsdU4okiIwIi9PXibXS9hIMYLJELuBZYTUc+OAB3Vz9dBb\nq/d+VOjSLT1oOEBaRcMnbaQ3aAu5f9b5tCo69EDZ8yZ7rUjQjPkmlNLMxynVETLy\nlrWm88kWO5JUt3w9l4ZQ8ho=\n-----END PRIVATE KEY-----\n"
 }
