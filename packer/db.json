@@ -2,7 +2,7 @@
   "builders": [
     {
       "type": "yandex",
-      "service_account_key_file": "./packer/key.json",
+      "service_account_key_file": "./packer/variables.json.example",
       "ssh_username" : "ubuntu",
       "folder_id": "b1gafo6fgsvf9m725efp",
       "source_image_family": "user {{user `source_image_family`}}",
