@@ -6,4 +6,4 @@
 key.json
 *.retry
 *jdauphant.nginx
-*vault.key
+*/ansible/vault.key
