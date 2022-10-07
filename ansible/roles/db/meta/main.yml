@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Anikeev Dmitriy
+  description: student
+  license: MIT
+  min_ansible_version: 2.9
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - 20
+
+  galaxy_tags: []
+
+dependencies: []
